@@ -28,5 +28,8 @@
 4. 点击按钮，图片将自动下载到浏览器的默认下载目录
 5. 按钮会显示「已下载」提示，确认下载成功
 
+<img width="613" height="812" alt="image" src="https://github.com/user-attachments/assets/761d4fd9-718e-4456-83fe-6e9765c80891" />
+   
+
 ## 关注我！！！
 <img width="315" height="374" alt="803cb108-bc99-48de-aae0-b558788a7b9d" src="https://github.com/user-attachments/assets/241249f2-61de-422e-a9df-73ce546d339e" />
